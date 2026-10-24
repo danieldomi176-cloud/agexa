@@ -1,0 +1,2 @@
+e7c9c39e2506c805e93c0c383d66f8543f8b8bb6bae9269551ddee4e341ead6d  downloads/FreeMyTV.apk
+00bb10613ce3c7ecad7b76d6776a33f9ef6ca953fc3bf2fc4ac85af068a62c81  downloads/FreeMyTV-Windows.zip
